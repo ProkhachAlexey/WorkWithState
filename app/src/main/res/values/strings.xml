@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkWithState</string>
+    <string name="increment">Increment</string>
+    <string name="random_color">Random Color</string>
+    <string name="visibility">Visibility</string>
+    <string name="_0">0</string>
+</resources>
